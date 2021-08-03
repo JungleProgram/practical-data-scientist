@@ -87,10 +87,10 @@ You have started a jupyter notebook server! 🎉
 
 #### 3.2 Opening & Running Course Notebooks
 
-I won't write about the basics of notebooks here, since jupyter hosts a wonderful tutorial notebook on [binder](https://mybinder.org/v2/gh/ipython/ipython-in-depth/master?filepath=binder/Index.ipynb).
+I won't write about the basics of notebooks here, since jupyter hosts a wonderful tutorial notebook on [binder](https://mybinder.org/).
 
-* Please check out the [Notebook Basics tutorial](https://notebooks.gesis.org/binder/jupyter/user/ipython-ipython-in-depth-qofeqqu6/notebooks/examples/Notebook/Notebook%20Basics.ipynb) to learn how to navigate the server, open, and run notebooks
-* Nagivate to the course repository (`practical-data-scientist`). You should find it where you cloned it with GitHub Desktop.
+* Open the [jupyter tutorial](https://mybinder.org/v2/gh/ipython/ipython-in-depth/master?filepath=binder/Index.ipynb) on binder, and check out the "Notebook Basics" to learn how to navigate the server, open, and run notebooks.
+* In your local jupyter notebook server, nagivate to the course repository (`practical-data-scientist`). You should find it where you cloned it with GitHub Desktop.
 * Under `prepwork`, open `prepwork.ipynb`
 
 The prepwork notebook should open in a new tab in your browser as such:
