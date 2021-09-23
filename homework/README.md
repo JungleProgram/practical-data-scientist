@@ -24,7 +24,7 @@ The latter will always be clearly marked with `# INSERT YOUR CODE HERE` comments
 
 ## 3. Submission
 
-Please upload the completed jupyter notebook file (`.ipynb`) in this [airtable](https://airtable.com/shri5saP3xxEDtrHQ).
+Please upload the completed jupyter notebook file (`.ipynb`) in the [exercise drop zone](https://airtable.com/shri5saP3xxEDtrHQ).
 
 ## 4. Deadlines
 
