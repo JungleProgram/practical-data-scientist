@@ -41,7 +41,8 @@ Beginner programming skills are required. A little python experience (_can you d
 
 #### :teacher: Who is behind this?
 
-Teacher:  [Camille Van Hoffelen](https://www.linkedin.com/in/camillevanhoffelen/) has worked as an Machine Learning engineer for the last 7 years, with a focus on large scale Natural Language Processing systems. He was a lecturer in Machine Learning at Ilia State University, and is currently the CTO & Co-founder of Watergenics.
+Teacher:  [Amric Trudel](https://www.linkedin.com/in/amrictrudel/) has a Science degree from McGill University (Montréal) and studied Computer Science at 42 Paris.
+He has been the president of 42 Artificial Intelligence, an association in which he developed training programs on Machine Learning for his fellow students. Amric has also given Machine Learning initiation workshops to large company executives. He now works at OCTO Technology as a Data Science consultant and industrializes data-oriented projects for clients like InVivo, TotalEnergies, and Accenture.
 
 
 
