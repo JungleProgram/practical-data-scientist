@@ -34,7 +34,7 @@ Homeworks are given on Wednesdays, and you have 4 days to complete them. i.e the
 
 ### Final Project
 
-The final project will start on the 23.08.2021, and you will be given 2 weeks to complete it.
+The final project will start on the 02.03.2022, and you will be given 2 weeks to complete it.
 
 ## 5. Grading Scheme
 
