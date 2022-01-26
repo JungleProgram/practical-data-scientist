@@ -7,7 +7,6 @@ In this final project, you will put into practice everything you have learned so
 
 ## Experimental Report
 
-**Due: 14/11/2021**
 
 This is a report like those data scientists make to share their experimental progress. It tests your ability to design, carry out, and communicate machine learning experiments.
 
@@ -119,7 +118,7 @@ I recommend a compromise however: first coding/debugging your experiments inside
 
 ## Presentation
 
-**Due: 15/11/2021 6.30pm**
+**Date: 16/03/2022 6.30pm**
 
 This is a short presentation like those data scientists are expected to make to summarize their experimental results. It tests the ability of the student to communicate, synthesize, and discuss machine learning experiments.
 

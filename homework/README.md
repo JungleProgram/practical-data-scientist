@@ -4,7 +4,7 @@
 
 ## 1. Philosophy
 
-:writing_hand: This is a _hands on_ course, meaning coding homework and projects are a key part of the learning. You are expected to spend at least as long solving problems as attending live classes. However, homeworks 1-4 test variations of what was already covered in class, and whilst challenging, are not meant to be extremely difficult. So if you are stuck, please consider revisiting one of the previous course notebooks.
+:writing_hand: This is a _hands on_ course, meaning coding homework and projects are a key part of the learning. You are expected to spend at least as long solving problems as attending live classes. However, homeworks test variations of what was already covered in class, and whilst challenging, are not meant to be extremely difficult. So if you are stuck, please consider revisiting one of the previous course notebooks.
 
 
 :handshake: This is also a _micro-class_, where collaboration is encouraged, and guidance is expected. Do talk to your fellow students about certain problems, and plan coding sessions. Do ask for teachers' help in the discord, and look for answers online. However, whereas collaboration and guidance improve learning, plagiarism does not. So please don't copy-paste answers without understanding them, and don't ask for assistance without attempting the problems yourself.
@@ -28,13 +28,13 @@ Please upload the completed jupyter notebook file (`.ipynb`) in the [exercise dr
 
 ## 4. Deadlines
 
-### Homeworks 1-4
+### Homeworks
 
-Homeworks are given on Wednesdays, and you have 4 days to complete them. i.e the deadline is on **Sunday at 23:59**. Please respect deadlines - it is important to assimilate the content through practice and validate your learning before the next week.
+Homeworks are given for weeks 1,2,3 and 5, and the deadline is on **Sunday at 23:59** of every week. Past the deadline, your homework will not be corrected. It is important to assimilate the content through practice and validate your learning before the next week. Take advantage of the learning opportunity of getting feedback on your work.
 
 ### Final Project
 
-The final project will start on the 02.03.2022, and you will be given 2 weeks to complete it.
+The final project will start at the end of Week 6, and you will be given 2 weeks to complete it.
 
 ## 5. Grading Scheme
 
