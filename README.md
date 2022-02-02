@@ -111,7 +111,8 @@ Beyond tables: learn how to extract and communicate key insights from time-serie
 
 
 * **2.2 Text & Image Data**  
-[notebook](https://github.com/JungleProgram/practical-data-scientist/blob/main/week_2/2.2_text_and_image_data/text_and_image_data.ipynb)
+[notebook](https://github.com/JungleProgram/practical-data-scientist/blob/main/week_2/2.2_text_and_image_data/text_and_image_data.ipynb)  
+[recording](https://drive.google.com/file/d/1epgJskuqG1TgLCYYGPeUwqZPepsK58lr/view?usp=sharing)
 * **2.3 Data Visualization**  
 [slides](https://docs.google.com/presentation/d/1X6hphK0Dh4g9PqC62_r2CtV2CrVw46FuWHbY74Q6lb8/edit?usp=sharing)  
 [notebook](https://github.com/JungleProgram/practical-data-scientist/blob/main/week_2/2.3_data_visualization/data_visualization.ipynb)
