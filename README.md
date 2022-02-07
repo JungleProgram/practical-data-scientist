@@ -123,7 +123,8 @@ Analytical power-up: this chapter adds clustering, dimensionality reduction, and
 
 * **3.1 Clustering**  
 [slides](https://docs.google.com/presentation/d/1hiEjLtkuJK7stT3c-zz4URglGq2oicUX4jFy4cAoo6A/edit?usp=sharing)  
-[notebook](https://github.com/JungleProgram/practical-data-scientist/blob/main/week_3/3.1_clustering/clustering.ipynb) 
+[notebook](https://github.com/JungleProgram/practical-data-scientist/blob/main/week_3/3.1_clustering/clustering.ipynb)  
+[recording](https://drive.google.com/file/d/1xAXUyenFvAHGc1GjZKz_NtUpovhq4y04/view?usp=sharing)
 * **3.2 Dimensionality Reduction**  
 [slides](https://docs.google.com/presentation/d/1bUYH-sEtiyzh7u42uWjQ3tN91V7XQjU4MehDElK4qjw/edit?usp=sharing)  
 [notebook](https://github.com/JungleProgram/practical-data-scientist/blob/main/week_3/3.2_dimensionality_reduction/dimensionality_reduction.ipynb) 
