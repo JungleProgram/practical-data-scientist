@@ -127,10 +127,12 @@ Analytical power-up: this chapter adds clustering, dimensionality reduction, and
 [recording](https://drive.google.com/file/d/1xAXUyenFvAHGc1GjZKz_NtUpovhq4y04/view?usp=sharing)
 * **3.2 Dimensionality Reduction**  
 [slides](https://docs.google.com/presentation/d/1bUYH-sEtiyzh7u42uWjQ3tN91V7XQjU4MehDElK4qjw/edit?usp=sharing)  
-[notebook](https://github.com/JungleProgram/practical-data-scientist/blob/main/week_3/3.2_dimensionality_reduction/dimensionality_reduction.ipynb) 
+[notebook](https://github.com/JungleProgram/practical-data-scientist/blob/main/week_3/3.2_dimensionality_reduction/dimensionality_reduction.ipynb)  
+[recording](https://drive.google.com/file/d/1qEOxn5IW9t5O9jI1zrpVj_V9fsIVU8la/view?usp=sharing)
 * **3.3 Anomaly Detection**  
 [slides](https://docs.google.com/presentation/d/1DOyIOlv498eHWP3IDOcMjYdEfgE4ijEGiRLA0KFfG_U/edit?usp=sharing)  
-[notebook](https://github.com/JungleProgram/practical-data-scientist/blob/main/week_3/3.3_anomaly_detection/anomaly_detection.ipynb) 
+[notebook](https://github.com/JungleProgram/practical-data-scientist/blob/main/week_3/3.3_anomaly_detection/anomaly_detection.ipynb)  
+
 
 ### Week 4: Supervised Learning
 
