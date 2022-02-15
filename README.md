@@ -138,9 +138,11 @@ Analytical power-up: this chapter adds clustering, dimensionality reduction, and
 
 Moving past data summaries: this chapter introduces predictive models to solve fundamental machine learning tasks.
 
-* **4.1 Supervised Learning Fundamentals**  
-[slides](https://docs.google.com/presentation/d/1uVzlM1TFxKz3jL9JGgEK5m1iuGSrkaY8Bqonc0vxyp0/edit?usp=sharing)
-* **4.2 Linear Regression**  
+* **4.1 Linear Regression, part 1**  
+[slides](https://docs.google.com/presentation/d/1uVzlM1TFxKz3jL9JGgEK5m1iuGSrkaY8Bqonc0vxyp0/edit?usp=sharing)  
+[notebook](https://github.com/JungleProgram/practical-data-scientist/blob/main/week_4/4.1_intro_to_linear_regression/Intro_to_linear_regression.ipynb)  
+[recording](https://drive.google.com/file/d/1ybnV6ZkAbVeOr1yxACcp0jpgXPuD3Vvb/view?usp=sharing)
+* **4.2 Linear Regression, part 2**  
 [slides](https://docs.google.com/presentation/d/1HeZf2mNvNrJJqRRjXrMDojmBIVt_wxwI9FPsppzuzZE/edit?usp=sharing)  
 [notebook](https://github.com/JungleProgram/practical-data-scientist/blob/main/week_4/4.2_linear_regression/linear_regression.ipynb) 
 * **4.3 Logistic Regression**  
