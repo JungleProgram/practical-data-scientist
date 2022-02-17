@@ -144,7 +144,8 @@ Moving past data summaries: this chapter introduces predictive models to solve f
 [recording](https://drive.google.com/file/d/1ybnV6ZkAbVeOr1yxACcp0jpgXPuD3Vvb/view?usp=sharing)
 * **4.2 Linear Regression, part 2**  
 [slides](https://docs.google.com/presentation/d/1HeZf2mNvNrJJqRRjXrMDojmBIVt_wxwI9FPsppzuzZE/edit?usp=sharing)  
-[notebook](https://github.com/JungleProgram/practical-data-scientist/blob/main/week_4/4.2_linear_regression/linear_regression.ipynb) 
+[notebook](https://github.com/JungleProgram/practical-data-scientist/blob/main/week_4/4.2_linear_regression/linear_regression.ipynb)  
+[recording](https://drive.google.com/file/d/1eCwd_qjaa9swFiPI0OkSCCgwQwB8r7-w/view?usp=sharing)
 * **4.3 Logistic Regression**  
 [slides](https://docs.google.com/presentation/d/1AE4DBdISt4XrQLhzxS5sqFR-gUYXT8ibMBhIBdgPPeE/edit?usp=sharing)  
 [notebook](https://github.com/JungleProgram/practical-data-scientist/blob/main/week_4/4.3_logistic_regression/logistic_regression.ipynb) 
