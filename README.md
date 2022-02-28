@@ -171,6 +171,7 @@ Taming the beast: this chapter shows how to build accurate and effective machine
 * **6.1 Support Vector Machines**  
 [slides](https://docs.google.com/presentation/d/1bnPhxKKIJCxiMNzFI8EIFiJDDGGubHrKMTpfyFZqtSs/edit?usp=sharing)  
 [notebook](https://github.com/JungleProgram/practical-data-scientist/blob/main/week_6/6.1_support_vector_machines/support_vector_machines.ipynb)  
+[recording](https://drive.google.com/file/d/1A9x1-DfVSHyWO0cdPzG7CxfNTFuWp7Rw/view?usp=sharing)
 
 * **6.2 Naive Bayes & Decision Trees**  
 [slides](https://docs.google.com/presentation/d/1LsNXco6J8UW7-BB5GSGWeMg-BRbps8YZ7zmPZ4sA1LQ/edit?usp=sharing)  
