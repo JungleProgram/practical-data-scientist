@@ -173,9 +173,10 @@ Taming the beast: this chapter shows how to build accurate and effective machine
 [notebook](https://github.com/JungleProgram/practical-data-scientist/blob/main/week_6/6.1_support_vector_machines/support_vector_machines.ipynb)  
 [recording](https://drive.google.com/file/d/1A9x1-DfVSHyWO0cdPzG7CxfNTFuWp7Rw/view?usp=sharing)
 
-* **6.2 Naive Bayes & Decision Trees**  
+* **6.2 Decision Trees**  
 [slides](https://docs.google.com/presentation/d/1LsNXco6J8UW7-BB5GSGWeMg-BRbps8YZ7zmPZ4sA1LQ/edit?usp=sharing)  
-[notebook](https://github.com/JungleProgram/practical-data-scientist/tree/main/week_6/6.2_naive_bayes_decision_trees) 
+[notebook](https://github.com/JungleProgram/practical-data-scientist/tree/main/week_6/6.2_naive_bayes_decision_trees)  
+[recording](https://drive.google.com/file/d/1rQRsXr-iWHAyCi32eCEqL44Kv4DBYmWF/view?usp=sharing)
 
 * **6.3 Ensemble Methods**  
 [slides](https://docs.google.com/presentation/d/1T42nruSeWx_J-FrYaskhaN_nq3CrX2wPCmWV02kM4cs/edit?usp=sharing)  
