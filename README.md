@@ -184,7 +184,8 @@ Taming the beast: this chapter shows how to build accurate and effective machine
 
 ### Week 7: Final Project
 
-This chapter tests your skills on a public dataset by completing an exploratory data analysis report, and training at least one Machine Learning model.
+This chapter tests your skills on a public dataset by completing an exploratory data analysis report, and training at least one Machine Learning model.  
+[recording](https://drive.google.com/file/d/1kuHBsHd5g70B0aZlV30Nh-d4Q84WI5zL/view?usp=sharing)
 
 ### Assignments
 
