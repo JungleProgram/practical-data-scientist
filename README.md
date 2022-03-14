@@ -187,6 +187,11 @@ Taming the beast: this chapter shows how to build accurate and effective machine
 This chapter tests your skills on a public dataset by completing an exploratory data analysis report, and training at least one Machine Learning model.  
 [recording](https://drive.google.com/file/d/1kuHBsHd5g70B0aZlV30Nh-d4Q84WI5zL/view?usp=sharing)
 
+### Week 8: Final Presentation
+
+On the last week of this course, you will finalize your project, submit your notebook and present your results in front of your peers in a 10-min oral presentation.  
+[recording](https://drive.google.com/file/d/1mpou9jwc8edY21OiH0M9Jlf5FdjgVFbn/view?usp=sharing)
+
 ### Assignments
 
 * [Week 1](https://github.com/JungleProgram/practical-data-scientist/tree/main/homework/week1)
